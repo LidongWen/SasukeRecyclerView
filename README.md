@@ -1,16 +1,16 @@
 # sasuke-Recyclerview
 轻量级 下拉刷新-上拉加载 RecyclerView
 
-· [总览](#总览)
-· [特性](#特性)
-· [基础](#基础用法)
-　　· [简单使用](#简单使用)
-　　· [一些配置](#配置)
-· [高级用法](#高级用法)
-　　· [自定义刷新头部样式](#自定义刷新头部样式)
-　　· [配合MultiType-Adapter](#MultiType-Adapter)
-· [Thrank](#Thrank)
-· [一些说明](#一些说明)
+- [总览](#总览)
+- [特性](#特性)
+- [基础](#基础用法)
+　　- [简单使用](#简单使用)
+　　- [一些配置](#配置)
+- [高级用法](#高级用法)
+　　- [自定义刷新头部样式](#自定义刷新头部样式)
+　　- [配合MultiType-Adapter](#MultiType-Adapter)
+- [Thrank](#Thrank)
+- [一些说明](#一些说明)
 # 总览
 ![loading.gif](https://github.com/LidongWen/SasukeRecyclerView/blob/master/doc/refresh-pull.gif)
 

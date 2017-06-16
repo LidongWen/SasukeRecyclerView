@@ -28,6 +28,7 @@ dependencies {
     compile "com.android.support:appcompat-v7:${supportLibraryVersion}"
     compile "com.android.support:recyclerview-v7:${supportLibraryVersion}"
     testCompile 'junit:junit:4.12'
-    compile project(':sasukeRecyclerview')
+//    compile project(':sasukeRecyclerview')
+    compile 'com.github.LidongWen:SasukeRecyclerView:0.0.1'
     compile 'com.github.bumptech.glide:glide:3.7.0'
 }
