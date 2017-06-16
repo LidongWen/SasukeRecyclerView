@@ -30,7 +30,7 @@ repositories {
 }
 // yout project build.gradle
 dependencies {
-        compile 'com.github.LidongWen:sasukeRecyclerview:0.0.1'
+        compile 'com.github.LidongWen:SasukeRecyclerView:0.0.1'
 }
 ```
 # 简单使用
