@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/refresh_iv"
+        android:layout_width="60dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/timg"
+        android:layout_gravity="center"
+        android:layout_height="60dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="#FF4081"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:text="六道轮回"
+        android:id="@+id/refresh_tv"/>
+
+</LinearLayout>
